@@ -1,8 +1,5 @@
 # Hi there, I'm Jack 👋 
 
-[Website](https://botgate.xyz)!
-
-
 ## I'm a Developer and a Entrepreneur!
 
 - 🔭 Check out my hosting company: [Website](https://botgate.xyz)!
